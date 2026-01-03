@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "47c1d09fdd2735f7",
+        "id": "9081d816cdf3b44e",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee4d26e20cd7ddf",
+            "id": "230c3e6437d4dc86",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -90,8 +90,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,8 +189,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "8ee4d26e20cd7ddf",
+  "active": "230c3e6437d4dc86",
   "lastOpenFiles": [
+    "ComputerScience/Python/Framework/Scrapy.md",
+    "ComputerScience/Python/Framework/Django.md",
+    "ComputerScience/Python/Framework",
+    "ComputerScience/Python/Core/Python.md",
+    "ComputerScience/Python/Core",
+    "ComputerScience/Python",
     "ComputerScience/JavaScript/Library/Webpack.md",
     "ComputerScience/JavaScript/Library/Vite.md",
     "ComputerScience/JavaScript/Library/RemixIcon.md",
@@ -217,17 +222,11 @@
     "ComputerScience/JavaScript/Core/网络请求.md",
     "ComputerScience/JavaScript/Core/正则表达式.md",
     "ComputerScience/JavaScript/Core/模块化.md",
-    "ComputerScience/JavaScript/Core/本地存储.md",
-    "ComputerScience/JavaScript/Core/数组与集合.md",
-    "ComputerScience/JavaScript/Core/异步编程.md",
     "ComputerScience/JavaScript/Core",
     "ComputerScience/JavaScript",
     "ComputerScience/Java/Library",
     "ComputerScience/Java/Framework",
     "ComputerScience/Java/Core",
-    "ComputerScience/Java/Application",
-    "ComputerScience/Java",
-    "ComputerScience",
     "Images/Computer Science/Web/Library/Puppeteer.md/Puppeteer.png",
     "Images/Computer Science/Web/Frontend/CSS3.md/CSS3.png",
     "Images/Computer Science/Web/Framework/Vue.md/Vue.png",
