@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiArchive",
+      "LiCalendarDays",
+      "LiBookOpenText",
+      "LiCookie",
+      "LiPenOff"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "ComputerScience": "LiComputer",
+  "Templates": "LiLayoutTemplate",
+  "sortspec.md": "LiSortAsc",
+  "README.md": "LiMeh",
+  "Images": "LiImage",
+  "Projects": "LiProportions",
+  "Cognition": "LiSettings",
+  "Languages": "LiLanguages",
+  "Excalidraw": "LiPenOff",
+  "Cooking": "LiCookie",
+  "Library": "LiBookOpenText",
+  "Diary": "LiCalendarDays",
+  "Resources": "LiArchive"
+}

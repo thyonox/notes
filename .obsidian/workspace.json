@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "ccf3f309ebbd7a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47c1d09fdd2735f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee4d26e20cd7ddf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f59c9d2f8ae789dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e57a50a1c6cc739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5203089b10655ad3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aefdfb53d770c58e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "45906de213131a26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "e623f816a27fb051",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e5d85ea5052edd0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c6c1e1df651417d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c48c06c98580d32e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf52e2d09e0fe66d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "486968a92537cf64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sortspec.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "sortspec 的出链列表"
+            }
+          },
+          {
+            "id": "f344fd1de0754f73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "df2b97372ffb9ac5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "random-note:开始漫游笔记": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "e5d85ea5052edd0a",
+  "lastOpenFiles": [
+    "ComputerScience/Java/Library/jjwt.md",
+    "ComputerScience/Java/Library/JDBC.md",
+    "ComputerScience/Java/Library/FastJson.md",
+    "ComputerScience/Java/Library",
+    "ComputerScience/Java/Framework/日志框架.md",
+    "ComputerScience/Java/Framework/xxl-sso.md",
+    "ComputerScience/Java/Framework/SpringTask.md",
+    "ComputerScience/Java/Framework/SpringSecurity.md",
+    "ComputerScience/Java/Framework/SpringMVC.md",
+    "ComputerScience/Java/Framework/SpringCloud.md",
+    "ComputerScience/Java/Framework/SpringBoot.md",
+    "ComputerScience/Java/Framework/Spring.md",
+    "ComputerScience/Java/Framework/Shiro.md",
+    "ComputerScience/Java/Framework/Sharding-JDBC.md",
+    "ComputerScience/Java/Framework/Sentinel.md",
+    "ComputerScience/Java/Framework/Seata.md",
+    "ComputerScience/Java/Framework/Quartz.md",
+    "ComputerScience/Java/Framework/Netty.md",
+    "ComputerScience/Java/Framework/MyBatisPlus.md",
+    "ComputerScience/Java/Framework/MyBatis.md",
+    "ComputerScience/Java/Framework/MinIO.md",
+    "ComputerScience/Java/Framework/JavaFX.md",
+    "ComputerScience/Java/Framework/Hibernate.md",
+    "ComputerScience/Java/Framework",
+    "ComputerScience/Java/Core/面向对象.md",
+    "ComputerScience/Java/Core/集合框架.md",
+    "ComputerScience/Java/Core/语言基础.md",
+    "ComputerScience/Java/Core/网络编程.md",
+    "ComputerScience/Java/Core",
+    "ComputerScience/Java/Application",
+    "ComputerScience/Java",
+    "ComputerScience",
+    "新建文件夹",
+    "Resources",
+    "Library",
+    "Diary",
+    "Images/Computer Science/Web/Library/Puppeteer.md/Puppeteer.png",
+    "Images/Computer Science/Web/Frontend/CSS3.md/CSS3.png",
+    "Images/Computer Science/Web/Framework/Vue.md/Vue.png",
+    "Images/Computer Science/Web/Framework/TailwindCSS.md/TailwindCSS.png",
+    "Images/Computer Science/Web/Framework/React.js.md/React.js.png",
+    "Images/Computer Science/Web/Framework/jQuery.md/jQuery.png",
+    "Images/Computer Science/Web/Framework/Express.md/Express.png",
+    "Images/Computer Science/Web/Framework/Axios.md/Axios.png",
+    "Images/Computer Science/Tools/Vim.md/Vim.png",
+    "Images/Computer Science/Tools/Docker/Docker.png"
+  ]
+}
