@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileImage",
       "LiArchive",
       "LiCalendarDays",
       "LiBookOpenText",
-      "LiCookie",
-      "LiPenOff"
+      "LiCookie"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,7 +38,7 @@
   "Templates": "LiLayoutTemplate",
   "sortspec.md": "LiSortAsc",
   "README.md": "LiMeh",
-  "Images": "LiImage",
+  "Images": "LiFileImage",
   "Projects": "LiProportions",
   "Cognition": "LiSettings",
   "Languages": "LiLanguages",
